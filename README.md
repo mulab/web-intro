@@ -52,6 +52,8 @@
 
   - [Bootstrape 官方教程与文档](http://getbootstrap.com/)
 
+然而[也许你并不需要JQuery](http://youmightnotneedjquery.com/)
+
 ### Node.js ：离开浏览器的 JavaScript
 
 为什么 JavaScript 一定要在浏览器里跑呢？
@@ -115,6 +117,8 @@
 
 - [coffeescript](coffeescript.org/)（已过气）
 
+（当然也可以从不类似 JavaScript 的语言编译到 JavaScript ）
+
 ### 前端框架
 
 使用组件化与数据绑定，让你像写 GUI 一样写前端。
@@ -136,6 +140,26 @@
 - ⭐[gulp](https://gruntjs.com/)
 
 - ⭐[webpack](https://webpack.github.io/)（和前两个的区别就跟 cmake 和 make 的区别一样）
+
+### 用前端的方式开发桌面/移动端程序
+
+#### 桌面端
+
+把浏览器和 node.js 结合在一起，就有了桌面客户端。
+
+- [nw.js](https://nwjs.io/)
+
+- ⭐[eletron](https://electron.atom.io/)
+
+#### 移动端
+
+给那些既不想学 Java 也不想学 Swift 的人一个选择。
+
+- [react-native](https://facebook.github.io/react-native/)（基于 react ）
+
+- [weex](https://weex.incubator.apache.org/)（基于 vue ）
+
+- [ionic](https://ionicframework.com/)（基于 angular ）
 
 ## 后端
 
